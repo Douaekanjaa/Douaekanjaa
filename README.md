@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <span style="color:"#007acc"; font-size:24px; font-weight:bold;">🚀 About Me</span>
-
-
+## 🚀 **About Me**
 
 I'm Douae, and I'm on an exciting journey through the tech world. Here's a little more about me:
 
@@ -41,16 +39,31 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
 - [Twitter](https://twitter.com/DouaeKanjaa)
 - Email: kanjaadouae1@gmail.com
 
-## 💼 Skills
+## 💼 **Skills**
 
-I'm skilled in a variety of technologies and tools:
+- 💻 **Web Development**
+  - HTML/CSS
+  - JavaScript
+  - React
 
-- 💻 **Web Development**: HTML/CSS, JavaScript, React
-- 🌈 **UI/UX Design**: Adobe XD, Figma
-- 🐍 **Back-end Development**: Python, PHP, Node.js
-- ⚙️ **Databases**: MySQL, MongoDB
-- 🚀 **Version Control**: Git, GitHub
-- ...
+- 🌈 **UI/UX Design**
+  - Adobe XD
+  - Figma
+
+- 🐍 **Back-end Development**
+  - Python
+  - PHP
+  - Node.js
+
+- ⚙️ **Databases**
+  - MySQL
+  - MongoDB
+
+- 🚀 **Version Control**
+  - Git
+  - GitHub
+
+---
 
 
 
