@@ -21,8 +21,8 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
 ## 📫 **Contact**
 
 You can reach out to me through the following channels:
-[![Linkedin Badge](https://img.shields.io/badge/-DouaeKanjaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douae-kanjaa-2728b5270)](https://www.linkedin.com/in/douae-kanjaa-2728b5270)
-- LinkedIn: [Douae Kanjaa]( https://linkedin.com/in/douae-kanjaa-2728b5270)
+
+- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-DouaeKanjaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douae-kanjaa-2728b5270)](https://www.linkedin.com/in/douae-kanjaa-2728b5270)
 - Twitter: [DouaeKanjaa](https://twitter.com/DouaeKanjaa)
 - Email: [kanjaadouae1@gmail.com](kanjaadouae1@gmail.com)
 
