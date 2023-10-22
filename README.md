@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <span style="color:#007acc; font-size:24px; font-weight:bold;">🚀 About Me</span>
+## <span style="color:"#007acc"; font-size:24px; font-weight:bold;">🚀 About Me</span>
 
 
 
