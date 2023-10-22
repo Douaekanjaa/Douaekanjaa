@@ -27,16 +27,16 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
 - 🌐 Full Stack Developer with a strong affinity for web technologies.
 - 🌱 Tech Enthusiast always hungry for new knowledge.
 - 💡 Innovator with a creative approach to problem-solving.
-- 🌍 Globetrotter who loves to explore new places and cultures.
 - 📚 Lifelong Learner, constantly expanding my skill set.
+- 🌍 Globetrotter who loves to explore new places and cultures.
 - 🎮 Gaming enthusiast, exploring virtual worlds for fun.
 
 ## Contact
 
 📫 How to reach me:
 
-- [LinkedIn](www.linkedin.com/in/douae-kanjaa-2728b5270)
-- [Twitter](https://twitter.com/DouaeKanjaa)
+- [LinkedIn] : www.linkedin.com/in/douae-kanjaa-2728b5270
+- [Twitter]: (https://twitter.com/DouaeKanjaa)
 - Email: kanjaadouae1@gmail.com
 
 ## 💼 **Skills**
@@ -45,6 +45,8 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
   - HTML/CSS
   - JavaScript
   - React
+  - Tailwind CSS
+  - Bootstrap
 
 - 🚀 **Back-end Development**
   - Laravel
@@ -61,11 +63,10 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
   - GitHub
 
 - 🎨 **UI/UX Design**
-  - Adobe XD
   - Figma
+  - Adobe XD
 
 ---
-
 
 
 Thanks for visiting my profile! 🚀
