@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Dua K
+# Douae Kanjaa
 
-![Profile Picture](your-profile-picture-url)
 
 ## About Me
 
-I'm Dua K, a passionate and curious full-stack developer. I love to learn, explore, and immerse myself in the world of technology. With a background in both frontend and backend development, I enjoy bringing ideas to life through code and staying on the cutting edge of software development.
+I'm Douae , a passionate and curious full-stack developer. I love to learn, explore, and immerse myself in the world of technology. With a background in both frontend and backend development, I enjoy bringing ideas to life through code and staying on the cutting edge of software development.
 
 - 👩‍💻 Full Stack Developer
 - 🚀 Technology Enthusiast
@@ -28,11 +27,11 @@ I'm Dua K, a passionate and curious full-stack developer. I love to learn, explo
 
 ## Contact
 
-Connect with me on:
+📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- Email: your@email.com
+- [LinkedIn](www.linkedin.com/in/douae-kanjaa-2728b5270)
+- [Twitter](https://twitter.com/DouaeKanjaa)
+- Email: kanjaadouae1@gmail.com
 
 ## My Skills
 
