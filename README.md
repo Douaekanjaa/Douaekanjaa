@@ -1,18 +1,4 @@
 
-<!--
-**Douaekanjaa/Douaekanjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <h1>👋 Hi, I'm Douae </h1>
   <p>A Full Stack Developer with a passion for technology and a love for learning.</p>
@@ -35,7 +21,7 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
 ## 📫 **Contact**
 
 You can reach out to me through the following channels:
-aaaaaaaaaa
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douae-kanjaa-2728b5270)](https://www.linkedin.com/in/douae-kanjaa-2728b5270)
 - LinkedIn: [Douae Kanjaa]( https://linkedin.com/in/douae-kanjaa-2728b5270)
 - Twitter: [DouaeKanjaa](https://twitter.com/DouaeKanjaa)
 - Email: [kanjaadouae1@gmail.com](kanjaadouae1@gmail.com)
