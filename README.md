@@ -35,9 +35,9 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
 
 📫 How to reach me:
 
-- [LinkedIn] : www.linkedin.com/in/douae-kanjaa-2728b5270
-- [Twitter]: (https://twitter.com/DouaeKanjaa)
-- Email: kanjaadouae1@gmail.com
+- [LinkedIn]: https://linkedin.com/in/douae-kanjaa-2728b5270
+- [Twitter]: https://twitter.com/DouaeKanjaa
+- [Email]: kanjaadouae1@gmail.com
 
 ## 💼 **Skills**
 
