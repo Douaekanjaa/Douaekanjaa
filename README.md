@@ -41,27 +41,28 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
 
 ## 💼 **Skills**
 
-- 💻 **Web Development**
+- 🌐 **Front-end Development**
   - HTML/CSS
   - JavaScript
   - React
 
-- 🌈 **UI/UX Design**
-  - Adobe XD
-  - Figma
-
-- 🐍 **Back-end Development**
+- 🚀 **Back-end Development**
+  - Laravel
   - Python
   - PHP
   - Node.js
 
-- ⚙️ **Databases**
+- 🛢️ **Databases**
   - MySQL
   - MongoDB
 
-- 🚀 **Version Control**
+- 📁 **Version Control**
   - Git
   - GitHub
+
+- 🎨 **UI/UX Design**
+  - Adobe XD
+  - Figma
 
 ---
 
