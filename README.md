@@ -43,12 +43,9 @@ You can reach out to me through the following channels:
 ## 💼 Skills
 
 - 🌐 Front-end Development: HTML/CSS, JavaScript, React, Tailwind CSS, Bootstrap
-- 🚀 Back-end Development: Laravel, Python, PHP, Node.js
+- 🚀 Back-end Development: PHP, Laravel, Python, Node.js
 - 🛢️ Databases: MySQL, MongoDB
 - 📁 Version Control: Git, GitHub
 - 🎨 UI/UX Design: Figma, Adobe XD
 
 ---
-
-
-Thanks for visiting my profile! 🚀
