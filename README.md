@@ -31,13 +31,14 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
 - 🌍 Globetrotter who loves to explore new places and cultures.
 - 🎮 Gaming enthusiast, exploring virtual worlds for fun.
 
-## Contact
 
-📫 How to reach me:
+## 📫 **Contact**
 
-- [LinkedIn]: https://linkedin.com/in/douae-kanjaa-2728b5270
-- [Twitter]: https://twitter.com/DouaeKanjaa
-- [Email]: kanjaadouae1@gmail.com
+You can reach out to me through the following channels:
+
+- LinkedIn: [Your LinkedIn Profile]( https://linkedin.com/in/douae-kanjaa-2728b5270)
+- Twitter: [Your Twitter Profile](https://twitter.com/DouaeKanjaa)
+- Email: [your@email.com](kanjaadouae1@gmail.com)
 
 ## 💼 **Skills**
 
