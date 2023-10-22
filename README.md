@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Douae Kanjaa
+<div align="center">
+  <h1>👋 Hi, I'm Dua K</h1>
+  <p>A Full Stack Developer with a passion for technology and a love for learning.</p>
+</div>
 
+<br>
 
 ## About Me
 
