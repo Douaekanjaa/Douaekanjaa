@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 <br>
 
-## <div align="center">🚀 About Me</div>
+## <span style="color:#007acc; font-size:24px; font-weight:bold;">🚀 About Me</span>
+
 
 
 I'm Douae, and I'm on an exciting journey through the tech world. Here's a little more about me:
