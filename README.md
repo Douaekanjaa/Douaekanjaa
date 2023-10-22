@@ -40,32 +40,13 @@ You can reach out to me through the following channels:
 - Twitter: [DouaeKanjaa](https://twitter.com/DouaeKanjaa)
 - Email: [kanjaadouae1@gmail.com](kanjaadouae1@gmail.com)
 
-## 💼 **Skills**
+## 💼 Skills
 
-- 🌐 **Front-end Development**
-  - HTML/CSS
-  - JavaScript
-  - React
-  - Tailwind CSS
-  - Bootstrap
-
-- 🚀 **Back-end Development**
-  - Laravel
-  - Python
-  - PHP
-  - Node.js
-
-- 🛢️ **Databases**
-  - MySQL
-  - MongoDB
-
-- 📁 **Version Control**
-  - Git
-  - GitHub
-
-- 🎨 **UI/UX Design**
-  - Figma
-  - Adobe XD
+- 🌐 Front-end Development: HTML/CSS, JavaScript, React, Tailwind CSS, Bootstrap
+- 🚀 Back-end Development: Laravel, Python, PHP, Node.js
+- 🛢️ Databases: MySQL, MongoDB
+- 📁 Version Control: Git, GitHub
+- 🎨 UI/UX Design: Figma, Adobe XD
 
 ---
 
