@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1>👋 Hi, I'm Dua K</h1>
+  <h1>👋 Hi, I'm Douae </h1>
   <p>A Full Stack Developer with a passion for technology and a love for learning.</p>
 </div>
 
