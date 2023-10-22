@@ -20,16 +20,17 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🚀 About Me
+## <div align="center">🚀 About Me</div>
+
 
 I'm Douae, and I'm on an exciting journey through the tech world. Here's a little more about me:
 
 - 🌐 Full Stack Developer with a strong affinity for web technologies.
 - 🌱 Tech Enthusiast always hungry for new knowledge.
-- 🌍 Globetrotter who loves to explore new places and cultures.
 - 💡 Innovator with a creative approach to problem-solving.
+- 🌍 Globetrotter who loves to explore new places and cultures.
 - 📚 Lifelong Learner, constantly expanding my skill set.
-- 🎮 Gamer, because even developers need a little downtime.
+- 🎮 Gaming enthusiast, exploring virtual worlds for fun.
 
 ## Contact
 
