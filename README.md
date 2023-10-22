@@ -25,6 +25,7 @@ You can reach out to me through the following channels:
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-DouaeKanjaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douae-kanjaa-2728b5270)](https://www.linkedin.com/in/douae-kanjaa-2728b5270)
 - Twitter: [DouaeKanjaa](https://twitter.com/DouaeKanjaa)
 - Email: [kanjaadouae1@gmail.com](kanjaadouae1@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-kanjaadouae1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanjaadouae1@gmail.com)](mailto:kanjaadouae1@gmail.com)
 
 ## 💼 Skills
 
