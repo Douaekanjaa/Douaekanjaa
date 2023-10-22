@@ -36,17 +36,15 @@ I'm Douae , a passionate and curious full-stack developer. I love to learn, expl
 - [Twitter](https://twitter.com/DouaeKanjaa)
 - Email: kanjaadouae1@gmail.com
 
-## My Skills
+## 💼 Skills
 
-I'm proficient in a range of technologies, including:
+I'm skilled in a variety of technologies and tools:
 
-- HTML/CSS
-- JavaScript
-- React
-- Tailwind CSS
-- Python
-- MySQL
-- PHP
+- 💻 **Web Development**: HTML/CSS, JavaScript, React
+- 🌈 **UI/UX Design**: Adobe XD, Figma
+- 🐍 **Back-end Development**: Python, PHP, Node.js
+- ⚙️ **Databases**: MySQL, MongoDB
+- 🚀 **Version Control**: Git, GitHub
 - ...
 
 
