@@ -21,7 +21,7 @@ I'm Douae, and I'm on an exciting journey through the tech world. Here's a littl
 ## 💼 Skills
 
 - 🌐 Front-end Development: HTML/CSS, JavaScript, React, Tailwind CSS, Bootstrap
-- 🚀 Back-end Development: PHP, Laravel, Python
+- 🚀 Back-end Development: NodeJs, Laravel, Django
 - 🛢️ Databases: MySQL, MongoDB
 - 📁 Version Control: Git, GitHub
 - 🎨 UI/UX Design: Figma, Adobe XD
